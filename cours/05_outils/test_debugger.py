@@ -1,5 +1,5 @@
 def fact(n):
-    res = 0
+    res = 1
     for i in range(10):
         res *= i
     return res
